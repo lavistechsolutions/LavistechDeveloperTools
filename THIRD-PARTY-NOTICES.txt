@@ -1,0 +1,21 @@
+LAVISTECH DEVELOPER TOOLS
+THIRD-PARTY NOTICES AND LICENSES
+================================
+
+This file records third-party components distributed with Lavistech Developer
+Tools. Include it with source and binary distributions.
+
+This project does not bundle third-party libraries, native binaries, or
+assets.
+
+The application is built with the .NET SDK and Windows Presentation
+Foundation. Those platform components are supplied by Microsoft with the
+.NET runtime, or included when you publish a self-contained build. They
+remain under Microsoft's license for that runtime:
+
+https://dotnet.microsoft.com/dotnet_library_license.htm
+
+No other third-party source or binary is part of this repository. If a
+dependency is added later, record its name, version, copyright, license,
+source, and purpose in this file, and keep the license text with the
+distribution.
